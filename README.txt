@@ -1,1 +1,1 @@
-Practica  de Observables
+Practica 02 componentes y directivas
